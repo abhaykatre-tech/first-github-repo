@@ -1,3 +1,3 @@
 # first-github-repo
-author-Abhay Katre
-tech projects
+author-Abhay Katre <br>
+tech projects 
